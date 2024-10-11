@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "460084878274",
+    "firebase_url": "https://mychat-974e6-default-rtdb.firebaseio.com",
+    "project_id": "mychat-974e6",
+    "storage_bucket": "mychat-974e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460084878274:android:06ee92550371ef74bfd45b",
+        "android_client_info": {
+          "package_name": "com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460084878274-gt2l387md9ebms7jf5jvviddsvma7nn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVDSRViF0jdXH1YeyogfOMY2w8xvaVQFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460084878274-gt2l387md9ebms7jf5jvviddsvma7nn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460084878274:android:0960788467170ca7bfd45b",
+        "android_client_info": {
+          "package_name": "com.instadivassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460084878274-gt2l387md9ebms7jf5jvviddsvma7nn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVDSRViF0jdXH1YeyogfOMY2w8xvaVQFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460084878274-gt2l387md9ebms7jf5jvviddsvma7nn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
